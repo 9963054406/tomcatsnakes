@@ -28,8 +28,9 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">Does it have snakes?</h1>
-      <p class="lead">A safety resource for snake haters.</p>
+      <h1 class="cover-heading">Welcome to Devops Training</h1>
+      <div class="tenor-gif-embed" data-postid="17296024" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/brahmanamdam-telugu-comedy-telugu-movies-telugu-lol-gif-17296024">Brahmanamdam Telugu Comedy GIF</a>from <a href="https://tenor.com/search/brahmanamdam-gifs">Brahmanamdam GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      <p class="lead">D.Anil kumar</p>
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
       <p>Snakes are a controversial topic. Some people love'em, some people just can't stand them. How do you get by in a world full of snakes?</p>
